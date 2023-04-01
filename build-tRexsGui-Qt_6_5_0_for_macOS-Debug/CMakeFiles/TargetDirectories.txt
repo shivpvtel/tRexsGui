@@ -1,0 +1,9 @@
+/Users/shivpatel/Desktop/Saturn/trexs/gui/build-tRexsGui-Qt_6_5_0_for_macOS-Debug/CMakeFiles/tRexsGui.dir
+/Users/shivpatel/Desktop/Saturn/trexs/gui/build-tRexsGui-Qt_6_5_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/shivpatel/Desktop/Saturn/trexs/gui/build-tRexsGui-Qt_6_5_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/shivpatel/Desktop/Saturn/trexs/gui/build-tRexsGui-Qt_6_5_0_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/shivpatel/Desktop/Saturn/trexs/gui/build-tRexsGui-Qt_6_5_0_for_macOS-Debug/CMakeFiles/install.dir
+/Users/shivpatel/Desktop/Saturn/trexs/gui/build-tRexsGui-Qt_6_5_0_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/shivpatel/Desktop/Saturn/trexs/gui/build-tRexsGui-Qt_6_5_0_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/shivpatel/Desktop/Saturn/trexs/gui/build-tRexsGui-Qt_6_5_0_for_macOS-Debug/CMakeFiles/tRexsGui_autogen_timestamp_deps.dir
+/Users/shivpatel/Desktop/Saturn/trexs/gui/build-tRexsGui-Qt_6_5_0_for_macOS-Debug/CMakeFiles/tRexsGui_autogen.dir
